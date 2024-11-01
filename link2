@@ -1,3 +1,0 @@
-SonarQube: SonarQube performs static code analysis, identifying bugs, code smells, security vulnerabilities, and performance bottlenecks across multiple languages, including Python. It flags logical issues, inefficient patterns, and potential vulnerabilities in real-time, making it highly effective for improving code quality.
-
-https://github.com/SonarSource/sonarqube
