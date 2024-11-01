@@ -1,1 +1,4 @@
+Description: Semgrep is a fast, customizable static analysis tool that combines performance and security checks with rule-based logic analysis. With customizable rules, Semgrep can be tailored to detect specific performance issues, security vulnerabilities, and logical inconsistencies in code. It supports multiple languages, making it adaptable for projects that require cross-functional bug detection.
+Best for: Multi-language projects requiring customizable security, performance, and logic rule sets for fine-grained bug detection.
+
 https://github.com/semgrep/semgrep
